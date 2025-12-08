@@ -25,7 +25,7 @@ const jayesh = {
 };
 ```
 
-I'm a **Full-Stack Software Engineer** specializing in **FastAPI, Express, scalable microservices, and cloud-native applications**. Experienced in building secure REST APIs, optimizing database performance, and delivering high-quality solutions.
+I'm a **Full-Stack Software Engineer** specializing in **FastAPI, Express, scalable microservices, and cloud-native applications**. Experienced in building secure REST APIs, optimizing database performance, and delivering high-quality solutions. I love solving complex problems and turning ideas into production-ready applications that make a real impact.
 
 ---
 
@@ -74,10 +74,15 @@ I'm a **Full-Stack Software Engineer** specializing in **FastAPI, Express, scala
 <td width="50%">
 
 **DBX** - AI SQL Assistant Platform
-- 🧠 **Founding Engineer** - Built AI SQL assistant used by **15+ beta users**
-- 🔗 Created multi-database interaction layers (PostgreSQL, MySQL, etc.)
-- 📈 Improved query performance by up to **40%**
-- 🤖 Automated complex SQL operations with AI
+
+DBX is an intelligent SQL assistant that revolutionizes how developers and data analysts interact with databases. As a founding engineer, I built this platform from the ground up to simplify complex database operations.
+
+- 🧠 **Founding Engineer** - Architected and built the entire AI SQL assistant from scratch, now serving **15+ active beta users**
+- 🔗 Engineered robust multi-database interaction layers supporting PostgreSQL, MySQL, SQLite, and more
+- 📈 Optimized query generation algorithms resulting in up to **40% performance improvement**
+- 🤖 Developed intelligent AI-powered SQL automation for complex database operations
+- 🛡️ Implemented secure connection handling and query validation systems
+- 🎨 Built intuitive React.js frontend for seamless user experience
 
 🔗 [Visit DBX Studio](https://www.dbxstudio.com)
 
@@ -85,11 +90,15 @@ I'm a **Full-Stack Software Engineer** specializing in **FastAPI, Express, scala
 <td width="50%">
 
 **SumrLabs** - AI-Driven Healthcare Platform
-- 🏥 Built backend logic in FastAPI for ranking, reporting & secure clinical workflows
-- ⚡ Developed optimized React.js components → **+15% user efficiency**
-- 🗄️ Designed PostgreSQL schemas → **-24% retrieval time**
-- 🎤 Integrated AWS Polly & Amazon Transcribe → **-20% documentation time**
-- 🚀 Reduced API latency by **28%**
+
+SumrLabs is a cutting-edge healthcare platform that leverages AI to streamline clinical workflows and improve patient care documentation. I contributed to building core features that enhance healthcare professionals' productivity.
+
+- 🏥 Architected and built backend logic in FastAPI for intelligent ranking, comprehensive reporting & secure clinical workflows
+- ⚡ Developed highly optimized React.js components leading to **+15% user efficiency** improvement
+- 🗄️ Designed and optimized PostgreSQL database schemas achieving **-24% data retrieval time**
+- 🎤 Integrated AWS Polly & Amazon Transcribe for voice-to-text features, reducing **documentation time by 20%**
+- 🚀 Implemented caching strategies and API optimizations reducing **latency by 28%**
+- 🔐 Built secure authentication and HIPAA-compliant data handling systems
 
 🔗 [Visit SumrLabs](https://sumrlabs.com)
 
