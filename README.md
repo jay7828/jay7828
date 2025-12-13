@@ -121,8 +121,8 @@ SumrLabs is a cutting-edge healthcare platform that leverages AI to streamline c
 
 | Certification | Provider | Verify |
 |--------------|----------|--------|
-| ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) **OCI 2025 Certified Generative AI Professional** | Oracle | [🔗 Verify](https://brm-certview.oracle.com) |
-| ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) **OCI 2025 Certified Developer Professional** | Oracle | [🔗 Verify](https://brm-certview.oracle.com) |
+| ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) **OCI 2025 Certified Generative AI Professional** | Oracle | [🔗 Verify](https://catalog-education.oracle.com/ords/certview/sharebadge?id=6B209283041FDD54CAC69FC9CD877377610C70FD8AE1DEE4D00A47E2736E34B7) |
+| ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) **OCI 2025 Certified Developer Professional** | Oracle | [🔗 Verify](https://catalog-education.oracle.com/ords/certview/sharebadge?id=E422CDB9F606C4130986FFB314E7044059435F6C52E78FE76CB22A373A1B03A5) |
 
 </div>
 
