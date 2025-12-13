@@ -156,20 +156,20 @@ SumrLabs is a cutting-edge healthcare platform that leverages AI to streamline c
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=jay7828&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6C63FF&icon_color=6C63FF" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jay7828&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6C63FF" alt="Top Languages" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=jay7828&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6C63FF&icon_color=6C63FF&v=2" alt="GitHub Stats" height="180">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jay7828&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=6C63FF&v=2" alt="Top Languages" height="180">
 
 </div>
 
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com/?user=jay7828&theme=tokyonight&hide_border=true&background=1a1b27&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=6C63FF&dates=8B949E)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jay7828&theme=tokyonight&hide_border=true&background=1a1b27&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=6C63FF&dates=8B949E)](https://git.io/streak-stats)
 
 </div>
 
 <div align="center">
   
-[![Jayesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jay7828&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=6C63FF&line=6C63FF&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Jayesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jay7828&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=6C63FF&line=6C63FF&point=ffffff&v=2)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
