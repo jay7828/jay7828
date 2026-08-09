@@ -13,7 +13,7 @@
   <code>Full Stack Software Engineer</code> @ <strong>HUB9</strong>
 </h3>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://jayeshsharma.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://www.jayeshsharma.me)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jayesh.work011@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayesh-sharma-704283251/)
 
@@ -28,14 +28,16 @@
 ```javascript
 const jayesh = {
   role: "Software Engineer",
-  company: "HUB9 (San Francisco)",
+  company: "HUB9 (Remote - San Francisco)",
   location: "Indore, India 🇮🇳",
   expertise: {
-    backend: ["FastAPI", "Node.js", "NestJS", "Express"],
+    backend: ["FastAPI", "Node.js", "NestJS", "Express", "Django"],
     frontend: ["React", "Next.js", "React Native", "Electron"],
-    databases: ["PostgreSQL", "MongoDB", "MySQL", "Redis"],
-    cloud: ["AWS", "Oracle Cloud", "Firebase", "Docker"]
+    ai: ["LangChain", "LangGraph", "RAG", "LLMs", "VLA Models"],
+    databases: ["PostgreSQL", "MongoDB", "MySQL", "Redis", "Pinecone"],
+    cloud: ["AWS Lambda", "AWS Amplify", "Oracle Cloud", "Docker"]
   },
+  specializedTech: ["Electron", "MuJoCo", "NVIDIA Isaac Sim", "FHIR", "GPU/CUDA", "WebRTC"],
   currentFocus: "Building AI-powered platforms & scalable architectures",
   philosophy: "Clean code, optimized performance, elegant solutions"
 };
@@ -47,31 +49,41 @@ Building **production-ready applications** that solve real problems. Specialized
 
 ## 💼 What I'm Building
 
-### 🏥 [SumrLabs](https://sumrlabs.com) — AI Healthcare Platform
-> Automating clinical workflows with AI-powered summaries and medical code ranking
+### 🎬 [Motion Intelligence](https://www.motionintelligence.xyz) — AI Video Inference Platform
+> Packaging, deploying, and running custom video models at scale
 
-- **FastAPI** backend with intelligent ranking & reporting
-- **React.js** frontend optimized for healthcare professionals
+- **Python CLI** for Docker containerization of video models
+- **Official Node.js/TypeScript SDK** reducing client integration by **40%**
+- **GPU optimization** through quantization, cutting latency by **45%**
+- **Streaming 3D-reconstruction** pipeline with S3 orchestration
+- Increased inference reliability by **30%** with category-based catalog
+
+### 🗄️ [DBX Studio](https://www.dbxstudio.com) — AI SQL Assistant
+> Generating, analyzing & optimizing complex SQL queries with AI
+
+- **Founding engineer** — architected entire platform from scratch
+- **FastAPI** backend with LLM-powered query generation
+- **Multi-database** support (PostgreSQL, MySQL, SQLite & more)
+- Improved query performance by up to **40%**
+- Serving **15+ active beta users**
+
+### 🏥 [SumrLabs](https://sumrlabs.com) — AI Healthcare Platform
+> Automating clinical summaries and medical-code ranking
+
+- **HIPAA-conscious** FastAPI microservices
+- **React.js** frontend with Redux state management
 - **PostgreSQL** schemas delivering **24% faster** data retrieval
 - **AWS Polly & Transcribe** integration cutting documentation time by **20%**
 - Reduced API latency by **28%** through caching strategies
 
-### 🤖 [DBX Studio](https://www.dbxstudio.com) — AI SQL Assistant
-> Generating, analyzing & optimizing complex SQL queries with AI
+### 📚 [June Kids](https://www.junekids.xyz) — AI Storytelling App
+> Personalized stories with voice narration for children
 
-- **Founding engineer** — built the entire platform from scratch
-- **Multi-database** support (PostgreSQL, MySQL, SQLite, and more)
-- **LLM-powered** query generation with debugging automation
-- Improved query performance by up to **40%**
-- Serving **15+ active beta users**
-
-### 🔗 [To Connect](https://to-connect-two.vercel.app) — Real-time Collaboration
-> Team collaboration platform with WebSocket-powered real-time features
-
-- **Express.js** + **MongoDB** backend architecture
-- **WebSocket** integration for real-time updates
-- **Google OAuth** authentication
-- Led team of **6 developers** to successful deployment
+- **Cross-platform** React Native (Expo) mobile app
+- **FastAPI** microservices on AWS Lambda for LLM-based story generation
+- **RevenueCat** in-app subscriptions with credit-based billing
+- **AWS Amplify/Cognito** authentication & Google Sign-In
+- Increased user retention by **25%** through personalization
 
 ---
 
@@ -96,23 +108,34 @@ Cloud & DevOps   ████████████████░░░░░
 
 **Frontend**
 ```
-React.js • Next.js • React Native • Electron • Redux • Tailwind CSS • Flutter
+React.js • Next.js • React Native • Electron • Redux • Tailwind CSS • Vite
 ```
 
 **Backend & APIs**
 ```
-FastAPI • Node.js • NestJS • Express.js • REST APIs • WebSockets • GraphQL
+FastAPI • Node.js • NestJS • Express.js • Django • Flask • REST APIs • WebSockets
+```
+
+**AI & LLMs**
+```
+LangChain • LangGraph • RAG • OpenAI GPT-4 • Claude • Gemini • VLA Models
 ```
 
 **Databases**
 ```
-PostgreSQL • MongoDB • MySQL • Redis • Prisma • TypeORM
+PostgreSQL • MongoDB • MySQL • Redis • Pinecone • ChromaDB • SQLite
 ```
 
 **Cloud & DevOps**
 ```
-AWS (App Runner, Amplify, Lambda, Cognito) • Oracle Cloud • Firebase
+AWS Lambda • AWS Amplify • AWS Cognito • AWS S3 • Oracle Cloud
 Docker • GitHub Actions • CI/CD Pipelines
+```
+
+**Specialized Technologies**
+```
+Electron • MuJoCo • NVIDIA Isaac Sim • FHIR • GPU/CUDA • RevenueCat
+WebRTC • Video Inference • 3D Reconstruction • Model Quantization
 ```
 
 </details>
@@ -160,6 +183,9 @@ Docker • GitHub Actions • CI/CD Pipelines
 [![Oracle OCI AI](https://img.shields.io/badge/Oracle-OCI_2025_AI_Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=6B209283041FDD54CAC69FC9CD877377610C70FD8AE1DEE4D00A47E2736E34B7)
 [![Oracle OCI Dev](https://img.shields.io/badge/Oracle-OCI_2025_Developer-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=E422CDB9F606C4130986FFB314E7044059435F6C52E78FE76CB22A373A1B03A5)
 
+[![Oracle OCI Data Science](https://img.shields.io/badge/Oracle-OCI_2025_Data_Science-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=80091506A0D4B471FDF7319DB4AF6334DCCA72BB929EE37317E61E23A7C25422)
+[![Oracle OCI DevOps](https://img.shields.io/badge/Oracle-OCI_2025_DevOps-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=80091506A0D4B471FDF7319DB4AF6334F80319E846CF73511F04FCB5D1626FD8)
+
 </div>
 
 ---
@@ -173,7 +199,7 @@ Docker • GitHub Actions • CI/CD Pipelines
 $ echo "jayesh.work011@gmail.com" | mail -s "Let's build something amazing"
 ```
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge)](https://jayeshsharma.dev)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge)](https://www.jayeshsharma.me)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jay7828)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayesh-sharma-704283251/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jayesh.work011@gmail.com)
