@@ -146,15 +146,37 @@ WebRTC • Video Inference • 3D Reconstruction • Model Quantization
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jay7828&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B&text_color=C9D1D9"/>
+<img src="https://github-readme-stats.vercel.app/api?username=jay7828&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" height="180"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jay7828&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=C9D1D9&langs_count=8"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jay7828&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&hide=html,css" alt="Top Languages" height="180"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jay7828&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B)](https://git.io/streak-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jay7828&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jay7828&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9" alt="Contribution Graph"/>
+
+</div>
+
+<div align="center">
+
+### 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=jay7828&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
+
+</div>
+
+<div align="center">
+
+### 📈 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/jay7828/jay7828/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
