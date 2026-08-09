@@ -164,22 +164,6 @@ WebRTC • Video Inference • 3D Reconstruction • Model Quantization
 
 </div>
 
-<div align="center">
-
-### 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=jay7828&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
-
-</div>
-
-<div align="center">
-
-### 📈 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/jay7828/jay7828/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-</div>
-
 ---
 
 ## 🏆 Achievements
