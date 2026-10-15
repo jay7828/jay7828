@@ -110,7 +110,7 @@ Before HUB9: Web Developer Intern at DevFolks, Indore (2023).
 <div align="center">
 
 <img src="https://streak-stats.demolab.com/?user=jay7828&hide_border=true&background=00000000&ring=ff5a2e&fire=ff5a2e&currStreakLabel=ff5a2e&sideLabels=8b949e&dates=8b949e&currStreakNum=ff5a2e&sideNums=8b949e&stroke=30363d" alt="Contribution streak" height="170">
-<img src="https://github-readme-stats.vercel.app/api?username=jay7828&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&title_color=ff5a2e&icon_color=ff5a2e&text_color=8b949e&cache_seconds=21600" alt="GitHub stats" height="170">
+<img src="https://github-readme-stats.vercel.app/api?username=jay7828&show_icons=true&hide_rank=true&count_private=true&hide_border=true&bg_color=00000000&title_color=ff5a2e&icon_color=ff5a2e&text_color=8b949e&cache_seconds=21600" alt="GitHub stats" height="170">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jay7828/jay7828/output/snake-dark.svg">
