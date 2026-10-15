@@ -93,7 +93,13 @@ Before HUB9: Web Developer Intern at DevFolks, Indore (2023).
   <img src="https://skillicons.dev/icons?i=py,ts,cpp,react,nextjs,nodejs,fastapi,nestjs,flutter,postgres,mongodb,redis,docker,aws,electron,tailwind&perline=8" alt="Python, TypeScript, C++, React, Next.js, Node.js, FastAPI, NestJS, Flutter, PostgreSQL, MongoDB, Redis, Docker, AWS, Electron, Tailwind">
 </p>
 
-**AI:** LLMs, LangChain, LangGraph, RAG, Claude on Bedrock, VLA models · **Also shipped with:** MuJoCo, NVIDIA Isaac Sim, Metal and Core ML, GPU optimization, model quantization, video inference, 3D reconstruction, WebRTC, FHIR, RevenueCat
+**AI:** LLMs, LangChain, LangGraph, RAG, agents, Claude on Bedrock
+
+**Physical AI and robotics:** VLA models (SmolVLA), vision-language models, MuJoCo, NVIDIA Isaac Sim, robot-arm control from language and depth
+
+**Inference engines:** dooms.cpp (my own), llama.cpp and GGUF, Metal, Core ML, model quantization
+
+**Desktop:** Electron · **Also shipped with:** GPU optimization, video inference, 3D reconstruction, WebRTC, FHIR, RevenueCat
 
 **Certified:** Oracle Cloud Infrastructure 2025: [Generative AI Professional](https://catalog-education.oracle.com/ords/certview/sharebadge?id=6B209283041FDD54CAC69FC9CD877377610C70FD8AE1DEE4D00A47E2736E34B7) · [Developer Professional](https://catalog-education.oracle.com/ords/certview/sharebadge?id=E422CDB9F606C4130986FFB314E7044059435F6C52E78FE76CB22A373A1B03A5) · [Data Science Professional](https://catalog-education.oracle.com/ords/certview/sharebadge?id=80091506A0D4B471FDF7319DB4AF6334DCCA72BB929EE37317E61E23A7C25422) · [DevOps Professional](https://catalog-education.oracle.com/ords/certview/sharebadge?id=80091506A0D4B471FDF7319DB4AF6334F80319E846CF73511F04FCB5D1626FD8)
 
