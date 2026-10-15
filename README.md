@@ -110,7 +110,6 @@ Before HUB9: Web Developer Intern at DevFolks, Indore (2023).
   <img src="https://raw.githubusercontent.com/jay7828/jay7828/output/snake-light.svg" alt="Contribution graph drawn as a snake">
 </picture>
 
-<img src="https://komarev.com/ghpvc/?username=jay7828&color=ff5a2e&style=flat-square&label=Profile+views" alt="Profile views">
 
 </div>
 
