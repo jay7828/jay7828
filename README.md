@@ -1,239 +1,121 @@
 <div align="center">
 
-```ascii
-     ██╗ █████╗ ██╗   ██╗███████╗███████╗██╗  ██╗
-     ██║██╔══██╗╚██╗ ██╔╝██╔════╝██╔════╝██║  ██║
-     ██║███████║ ╚████╔╝ █████╗  ███████╗███████║
-██   ██║██╔══██║  ╚██╔╝  ██╔══╝  ╚════██║██╔══██║
-╚█████╔╝██║  ██║   ██║   ███████╗███████║██║  ██║
- ╚════╝ ╚═╝  ╚═╝   ╚═╝   ╚══════╝╚══════╝╚═╝  ╚═╝
-```
+# Jayesh Sharma
 
-<h3>
-  <code>Full Stack Software Engineer</code> @ <strong>HUB9</strong>
-</h3>
+**Software engineer at HUB9. I build AI products, and the engines under them.**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://www.jayeshsharma.me)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jayesh.work011@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayesh-sharma-704283251/)
+Python, FastAPI, React and LLMs by day. On my own: an inference engine for Apple Silicon, a robot arm that plans from one sentence, a ride app for Indore and a language app for kids.
 
-![Profile Views](https://komarev.com/ghpvc/?username=jay7828&color=blueviolet&style=flat-square&label=Profile+Views)
+[![Portfolio](https://img.shields.io/badge/Portfolio-jayeshsharma.me-ff5a2e?style=for-the-badge)](https://www.jayeshsharma.me)
+[![Email](https://img.shields.io/badge/Email-jayesh.work011%40gmail.com-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jayesh.work011@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jayesh_Sharma-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayesh-sharma-704283251/)
 
 </div>
 
 ---
 
-## 🚀 About
+## Things I build on my own
 
-```javascript
-const jayesh = {
-  role: "Software Engineer",
-  company: "HUB9 (Remote - San Francisco)",
-  location: "Indore, India 🇮🇳",
-  expertise: {
-    backend: ["FastAPI", "Node.js", "NestJS", "Express", "Django"],
-    frontend: ["React", "Next.js", "React Native", "Electron"],
-    ai: ["LangChain", "LangGraph", "RAG", "LLMs", "VLA Models"],
-    databases: ["PostgreSQL", "MongoDB", "MySQL", "Redis", "Pinecone"],
-    cloud: ["AWS Lambda", "AWS Amplify", "Oracle Cloud", "Docker"]
-  },
-  specializedTech: ["Electron", "MuJoCo", "NVIDIA Isaac Sim", "FHIR", "GPU/CUDA", "WebRTC"],
-  currentFocus: "Building AI-powered platforms & scalable architectures",
-  philosophy: "Clean code, optimized performance, elegant solutions"
-};
-```
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://dooms-kappa.vercel.app"><img src="assets/dooms-engine.png" alt="dooms.cpp website"></a>
+      <h3><a href="https://dooms-kappa.vercel.app">dooms.cpp</a></h3>
+      An inference engine for Apple Silicon. Language, vision-language and robot-action models on the GPU (Metal) and the Neural Engine (Core ML), with C++, C and Python APIs.
+      <br><br>
+      SmolVLA goes from three cameras to 50 robot actions in <b>267 ms</b>, 2.3x faster than PyTorch on the same Mac. LLM decoding is level with llama.cpp itself.
+      <br><br>
+      <code>C++</code> <code>Metal</code> <code>Core ML</code> <code>llama.cpp</code> <code>Python</code>
+      <br><br>
+      <a href="https://dooms-kappa.vercel.app">Website</a> · <a href="https://github.com/jay7828/dooms">Source (Apache-2.0)</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://dooms-inference.vercel.app"><img src="assets/dooms-inference.png" alt="Dooms Inference website"></a>
+      <h3><a href="https://dooms-inference.vercel.app">Dooms Inference</a></h3>
+      Tell a robot what to do, watch it work it out. One sentence and one depth image become controller skills for a robot arm: four Claude agents plan, and a MuJoCo simulation runs it, all in the browser.
+      <br><br>
+      <b>94.7%</b> accuracy over 150 trials with Claude.
+      <br><br>
+      <code>TypeScript</code> <code>MuJoCo WASM</code> <code>Claude</code> <code>Three.js</code> <code>Python</code>
+      <br><br>
+      <a href="https://dooms-inference.vercel.app">Try it in the browser</a> · <a href="https://github.com/jay7828/Dooms-inference">Source (Apache-2.0)</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://rydu-gray.vercel.app"><img src="assets/rydu.png" alt="RYDU website"></a>
+      <h3><a href="https://rydu-gray.vercel.app">RYDU</a></h3>
+      Bike, auto and cab rides in Indore. Riders see the fare before they book, and five nearby drivers get the request at once.
+      <br><br>
+      <code>FastAPI</code> <code>PostGIS</code> <code>Redis</code> <code>Flutter</code> <code>Next.js</code>
+      <br><br>
+      <a href="https://rydu-gray.vercel.app">Website</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://www.mirikids.in"><img src="assets/mirikids.png" alt="Mirikids website"></a>
+      <h3><a href="https://www.mirikids.in">Mirikids</a></h3>
+      Bedtime stories that teach a second language. Every story is written in two languages side by side, and children can read, hear and tap along to it. The app is coming soon.
+      <br><br>
+      <code>Expo</code> <code>FastAPI</code> <code>LLMs</code> <code>Text to speech</code>
+      <br><br>
+      <a href="https://www.mirikids.in">Website</a> · <a href="https://www.instagram.com/kids.miri/">Instagram</a>
+    </td>
+  </tr>
+</table>
 
-Building **production-ready applications** that solve real problems. Specialized in architecting **scalable microservices**, crafting **secure REST APIs**, and deploying **cloud-native solutions**. Currently at **HUB9**, working on AI-driven healthcare and database automation platforms.
+## At HUB9
 
----
+Software Engineer since September 2024, remote for San Francisco, working across four products.
 
-## 💼 What I'm Building
+**[Motion Intelligence](https://www.motionintelligence.xyz)** · a platform for packaging, deploying and running custom video models
+- Lead engineer on the Python CLI that packages models into Docker images
+- Built the official Node.js and TypeScript SDK, cutting client integration effort by 40%
+- Quantization and GPU tuning cut inference latency by 45%; designed a streaming 3D-reconstruction pipeline on S3
 
-### 🎬 [Motion Intelligence](https://www.motionintelligence.xyz) — AI Video Inference Platform
-> Packaging, deploying, and running custom video models at scale
+**[DBX Studio](https://www.dbxstudio.com)** · an AI SQL assistant
+- Founding engineer: architected the platform from scratch
+- FastAPI backend with LLM-powered query generation across PostgreSQL, MySQL and SQLite; 15+ active beta users
 
-- **Python CLI** for Docker containerization of video models
-- **Official Node.js/TypeScript SDK** reducing client integration by **40%**
-- **GPU optimization** through quantization, cutting latency by **45%**
-- **Streaming 3D-reconstruction** pipeline with S3 orchestration
-- Increased inference reliability by **30%** with category-based catalog
+**[SumrLabs](https://sumrlabs.com)** · clinical summaries and medical-code ranking
+- HIPAA-conscious FastAPI microservices; PostgreSQL schemas that cut data-retrieval time by 24%
+- AWS Polly and Transcribe integration cut documentation time by 20%
 
-### 🗄️ [DBX Studio](https://www.dbxstudio.com) — AI SQL Assistant
-> Generating, analyzing & optimizing complex SQL queries with AI
+**[June Kids](https://www.junekids.xyz)** · a storytelling app with personalised stories and voice narration
+- Lead engineer on the React Native (Expo) app, with FastAPI services on AWS Lambda for story generation
+- RevenueCat subscriptions with credit-based billing, Cognito and Google Sign-In
 
-- **Founding engineer** — architected entire platform from scratch
-- **FastAPI** backend with LLM-powered query generation
-- **Multi-database** support (PostgreSQL, MySQL, SQLite & more)
-- Improved query performance by up to **40%**
-- Serving **15+ active beta users**
+Before HUB9: Web Developer Intern at DevFolks, Indore (2023).
 
-### 🏥 [SumrLabs](https://sumrlabs.com) — AI Healthcare Platform
-> Automating clinical summaries and medical-code ranking
+## What I work with
 
-- **HIPAA-conscious** FastAPI microservices
-- **React.js** frontend with Redux state management
-- **PostgreSQL** schemas delivering **24% faster** data retrieval
-- **AWS Polly & Transcribe** integration cutting documentation time by **20%**
-- Reduced API latency by **28%** through caching strategies
+<p>
+  <img src="https://skillicons.dev/icons?i=py,ts,cpp,react,nextjs,nodejs,fastapi,nestjs,flutter,postgres,mongodb,redis,docker,aws,electron,tailwind&perline=8" alt="Python, TypeScript, C++, React, Next.js, Node.js, FastAPI, NestJS, Flutter, PostgreSQL, MongoDB, Redis, Docker, AWS, Electron, Tailwind">
+</p>
 
-### 📚 [June Kids](https://www.junekids.xyz) — AI Storytelling App
-> Personalized stories with voice narration for children
+**AI:** LLMs, LangChain, LangGraph, RAG, Claude on Bedrock, VLA models · **Also shipped with:** MuJoCo, NVIDIA Isaac Sim, Metal and Core ML, GPU optimization, model quantization, video inference, 3D reconstruction, WebRTC, FHIR, RevenueCat
 
-- **Cross-platform** React Native (Expo) mobile app
-- **FastAPI** microservices on AWS Lambda for LLM-based story generation
-- **RevenueCat** in-app subscriptions with credit-based billing
-- **AWS Amplify/Cognito** authentication & Google Sign-In
-- Increased user retention by **25%** through personalization
+**Certified:** Oracle Cloud Infrastructure 2025: [Generative AI Professional](https://catalog-education.oracle.com/ords/certview/sharebadge?id=6B209283041FDD54CAC69FC9CD877377610C70FD8AE1DEE4D00A47E2736E34B7) · [Developer Professional](https://catalog-education.oracle.com/ords/certview/sharebadge?id=E422CDB9F606C4130986FFB314E7044059435F6C52E78FE76CB22A373A1B03A5) · [Data Science Professional](https://catalog-education.oracle.com/ords/certview/sharebadge?id=80091506A0D4B471FDF7319DB4AF6334DCCA72BB929EE37317E61E23A7C25422) · [DevOps Professional](https://catalog-education.oracle.com/ords/certview/sharebadge?id=80091506A0D4B471FDF7319DB4AF6334F80319E846CF73511F04FCB5D1626FD8)
 
----
+**Education:** B.Tech in Information Technology, IIST Indore (CGPA 8.55)
 
-## 🛠️ Tech Arsenal
-
-<details open>
-<summary><b>Languages & Frameworks</b></summary>
-<br>
-
-```text
-Backend          ██████████████████████░░░  85%  FastAPI • Node.js • NestJS • Express
-Frontend         ████████████████████░░░░░  80%  React • Next.js • React Native
-Databases        ██████████████████░░░░░░░  75%  PostgreSQL • MongoDB • MySQL
-Cloud & DevOps   ████████████████░░░░░░░░░  70%  AWS • Docker • GitHub Actions
-```
-
-</details>
-
-<details>
-<summary><b>Full Stack</b></summary>
-<br>
-
-**Frontend**
-```
-React.js • Next.js • React Native • Electron • Redux • Tailwind CSS • Vite
-```
-
-**Backend & APIs**
-```
-FastAPI • Node.js • NestJS • Express.js • Django • Flask • REST APIs • WebSockets
-```
-
-**AI & LLMs**
-```
-LangChain • LangGraph • RAG • OpenAI GPT-4 • Claude • Gemini • VLA Models
-```
-
-**Databases**
-```
-PostgreSQL • MongoDB • MySQL • Redis • Pinecone • ChromaDB • SQLite
-```
-
-**Cloud & DevOps**
-```
-AWS Lambda • AWS Amplify • AWS Cognito • AWS S3 • Oracle Cloud
-Docker • GitHub Actions • CI/CD Pipelines
-```
-
-**Specialized Technologies**
-```
-Electron • MuJoCo • NVIDIA Isaac Sim • FHIR • GPU/CUDA • RevenueCat
-WebRTC • Video Inference • 3D Reconstruction • Model Quantization
-```
-
-</details>
-
----
-
-## 📊 GitHub Stats
+## GitHub activity
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jay7828&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
+<img src="https://streak-stats.demolab.com/?user=jay7828&hide_border=true&background=00000000&ring=ff5a2e&fire=ff5a2e&currStreakLabel=ff5a2e&sideLabels=8b949e&dates=8b949e&currStreakNum=ff5a2e&sideNums=8b949e&stroke=30363d" alt="Contribution streak" height="170">
+<img src="https://github-readme-stats.vercel.app/api?username=jay7828&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&title_color=ff5a2e&icon_color=ff5a2e&text_color=8b949e&cache_seconds=21600" alt="GitHub stats" height="170">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jay7828&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&hide=html,css)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jay7828/jay7828/output/snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/jay7828/jay7828/output/snake-light.svg" alt="Contribution graph drawn as a snake">
+</picture>
 
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jay7828&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
-
-</div>
-
-<div align="center">
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=jay7828&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9)
+<img src="https://komarev.com/ghpvc/?username=jay7828&color=ff5a2e&style=flat-square&label=Profile+views" alt="Profile views">
 
 </div>
 
----
+## Contact
 
-## 🏆 Achievements
+The fastest way to reach me is email: **[jayesh.work011@gmail.com](mailto:jayesh.work011@gmail.com)**. Based in Indore, India, and open to new roles and collaborations.
 
-<div align="center">
-
-| 🎯 Metric | 📈 Achievement |
-|-----------|---------------|
-| **API Performance** | ⚡ 40% improvement in query optimization |
-| **User Efficiency** | 📊 15% increase across platforms |
-| **Data Retrieval** | 🚀 24% faster with PostgreSQL optimization |
-| **API Latency** | ⏱️ 28% reduction through caching |
-| **Active Projects** | 💼 15+ professional projects delivered |
-
-</div>
-
----
-
-## 🎓 Certifications
-
-<div align="center">
-
-[![Oracle OCI AI](https://img.shields.io/badge/Oracle-OCI_2025_AI_Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=6B209283041FDD54CAC69FC9CD877377610C70FD8AE1DEE4D00A47E2736E34B7)
-[![Oracle OCI Dev](https://img.shields.io/badge/Oracle-OCI_2025_Developer-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=E422CDB9F606C4130986FFB314E7044059435F6C52E78FE76CB22A373A1B03A5)
-
-[![Oracle OCI Data Science](https://img.shields.io/badge/Oracle-OCI_2025_Data_Science-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=80091506A0D4B471FDF7319DB4AF6334DCCA72BB929EE37317E61E23A7C25422)
-[![Oracle OCI DevOps](https://img.shields.io/badge/Oracle-OCI_2025_DevOps-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=80091506A0D4B471FDF7319DB4AF6334F80319E846CF73511F04FCB5D1626FD8)
-
-</div>
-
----
-
-## 📫 Let's Connect
-
-<div align="center">
-
-```bash
-# Reach out for collaboration, opportunities, or just to chat!
-$ echo "jayesh.work011@gmail.com" | mail -s "Let's build something amazing"
-```
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge)](https://www.jayeshsharma.me)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jay7828)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayesh-sharma-704283251/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jayesh.work011@gmail.com)
-
-**📍 Location:** Indore, Madhya Pradesh, India  
-**📱 Phone:** +91 7828123916  
-**🎓 Education:** B.Tech IT, IIST Indore (CGPA: 8.55)
-
-</div>
-
----
-
-<div align="center">
-
-### 💭 Philosophy
-
-> *"The best code is the code that solves real problems elegantly."*
-
-```python
-while alive:
-    code()
-    learn()
-    build()
-    optimize()
-```
-
----
-
-<sub>⭐ From [jay7828](https://github.com/jay7828) with 💜</sub>
-
-</div>
+[Portfolio](https://www.jayeshsharma.me) · [LinkedIn](https://www.linkedin.com/in/jayesh-sharma-704283251/) · Phone +91 7828123916
