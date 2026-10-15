@@ -5,11 +5,6 @@
   <img src="assets/name-light.svg" alt="Jayesh Sharma" width="560">
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/typing-dark.svg">
-  <img src="assets/typing-light.svg" alt="I build AI products, an inference engine for Apple Silicon, robots that plan from one sentence, and apps" height="40">
-</picture>
-
 **Software engineer at HUB9. I build AI products, and the engines under them.**
 
 Python, FastAPI, React and LLMs by day. On my own: an inference engine for Apple Silicon, a robot arm that plans from one sentence, a ride app for Indore and a language app for kids.
