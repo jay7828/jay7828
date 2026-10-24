@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="200" viewBox="0 0 860 200" role="img" aria-label="Current streak 3 days, longest 30 days, 4,417 contributions since 2023, 2,019 in the past year with 1,841 in private repos">
+  <style>
+    text { font-family: "Segoe UI", Ubuntu, -apple-system, BlinkMacSystemFont, sans-serif; }
+    .label { font-size: 14px; fill: #8b949e; }
+    .value { font-size: 14px; font-weight: 600; fill: #e6edf3; }
+    .num { font-size: 34px; font-weight: 700; fill: #e6edf3; }
+    .accent { fill: #ff5a2e; }
+    .cap { font-size: 14px; font-weight: 600; fill: #e6edf3; }
+    .small { font-size: 12px; fill: #8b949e; }
+    .ring { stroke-dasharray: 263.9; stroke-dashoffset: 263.9; animation: draw 1.2s .2s ease-out forwards; }
+    .row, .side { opacity: 0; animation: fadein .6s ease-out forwards; }
+    @keyframes draw { to { stroke-dashoffset: 0; } }
+    @keyframes fadein { from { opacity: 0; transform: translateY(4px); } to { opacity: 1; transform: none; } }
+    @media (prefers-reduced-motion: reduce) { .ring { animation: none; stroke-dashoffset: 0; } .row, .side { animation: none; opacity: 1; } }
+  </style>
+  <g transform="translate(95 82)">
+    <circle r="42" fill="none" stroke="#3a1c14" stroke-width="5"/>
+    <circle r="42" fill="none" stroke="#ff5a2e" stroke-width="5" stroke-linecap="round" transform="rotate(-90)" class="ring"/>
+    <text y="12" class="num accent" text-anchor="middle">3</text>
+  </g>
+  <g class="side" style="animation-delay:300ms">
+    <text x="95" y="155" class="cap accent" text-anchor="middle">Current streak</text>
+    <text x="95" y="176" class="small" text-anchor="middle">Oct 22 - Oct 24</text>
+  </g>
+  <line x1="195" y1="40" x2="195" y2="170" stroke="#30363d"/>
+  <g class="side" style="animation-delay:450ms">
+    <text x="290" y="96" class="num" text-anchor="middle">30</text>
+    <text x="290" y="155" class="cap" text-anchor="middle">Longest streak</text>
+    <text x="290" y="176" class="small" text-anchor="middle">Sep 21 - Oct 20</text>
+  </g>
+  <line x1="385" y1="40" x2="385" y2="170" stroke="#30363d"/>
+  <g class="side" style="animation-delay:600ms">
+    <text x="490" y="96" class="num accent" text-anchor="middle">4,417</text>
+    <text x="490" y="155" class="cap" text-anchor="middle">Contributions</text>
+    <text x="490" y="176" class="small" text-anchor="middle">since 2023, private included</text>
+  </g>
+  <line x1="595" y1="40" x2="595" y2="170" stroke="#30363d"/>
+  <g class="row" style="animation-delay:700ms">
+    <circle cx="616" cy="58" r="3" fill="#ff5a2e"/>
+    <text x="628" y="62" class="label">Past year</text>
+    <text x="835" y="62" class="value" text-anchor="end">2,019</text>
+  </g>
+  <g class="row" style="animation-delay:800ms">
+    <circle cx="616" cy="82" r="3" fill="#ff5a2e"/>
+    <text x="628" y="86" class="label">In private repos</text>
+    <text x="835" y="86" class="value" text-anchor="end">1,841</text>
+  </g>
+  <g class="row" style="animation-delay:900ms">
+    <circle cx="616" cy="106" r="3" fill="#ff5a2e"/>
+    <text x="628" y="110" class="label">Public commits</text>
+    <text x="835" y="110" class="value" text-anchor="end">142</text>
+  </g>
+  <g class="row" style="animation-delay:1000ms">
+    <circle cx="616" cy="130" r="3" fill="#ff5a2e"/>
+    <text x="628" y="134" class="label">Pull requests</text>
+    <text x="835" y="134" class="value" text-anchor="end">16</text>
+  </g>
+  <g class="row" style="animation-delay:1100ms">
+    <circle cx="616" cy="154" r="3" fill="#ff5a2e"/>
+    <text x="628" y="158" class="label">Stars earned</text>
+    <text x="835" y="158" class="value" text-anchor="end">8</text>
+  </g>
+</svg>
